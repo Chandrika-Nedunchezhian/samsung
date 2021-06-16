@@ -4,6 +4,7 @@ public class SamsungA20 {
 
 	public static void main(String[] args) {
 		System.out.println("SAMSUNG");
+		System.out.println("s");
 	}
 	
 }
